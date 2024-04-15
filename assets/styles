@@ -1,0 +1,11 @@
+nav {
+    text-color: #fefefe;
+}
+
+article {
+    text-color: #fefefe;
+}
+
+main {
+    text-color: #212529;
+}

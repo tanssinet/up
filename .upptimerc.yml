@@ -21,4 +21,4 @@ status-website:
   metaTags:
       - name: "robots"
         content: "noindex"
-  css: "nav { text-color: #fefefe; } article { text-color: #fefefe; } main { text-color: #212529 }"
+  css: "nav { color: #fefefe; } article { color: #fefefe; } main { color: #212529 }"

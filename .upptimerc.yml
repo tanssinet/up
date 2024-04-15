@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tanssi.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://status.tanssi.io/tanssi_net_logo_white_on_blue.png
   name: tanssi.net
   introTitle: tanssi.netin valvonta
   introMessage: Palveluiden saatavuus
@@ -20,3 +20,4 @@ status-website:
       href: /
     - title: Tiketit
       href: https://github.com/$OWNER/$REPO
+  themeUrl: https://status.tanssi.io/theme.css

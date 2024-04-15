@@ -17,3 +17,7 @@ status-website:
     - title: Tiketit
       href: https://github.com/$OWNER/$REPO
   themeUrl: https://status.tanssi.io/theme.css
+  robotsText: "User-agent: * \n Disallow: /"
+  metaTags:
+      - name: "robots"
+        content: "noindex"

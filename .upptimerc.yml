@@ -9,8 +9,8 @@ status-website:
   cname: status.tanssi.io
   logoUrl: https://status.tanssi.io/tanssi_net_logo_white_on_blue_cropped.png
   name: tanssi.net
-  introTitle: tanssi.netin valvonta
-  introMessage: Palveluiden saatavuus
+  introTitle: tanssi.net | Palveluiden saatavuus
+  introMessage: Alla näet palveluiden tilan. Jos järjestelmät ovat pysyvästi alhaalla, saat lisätietoja sivulta Tiketit
   navbar:
     - title: Tila
       href: /

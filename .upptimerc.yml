@@ -1,16 +1,12 @@
-# Change these first
-owner: tanssinet # Your GitHub organization or username, where this repository lives
-repo: up # The name of this repository
+owner: tanssinet
+repo: up
 
 sites:
   - name: tanssi.net
     url: https://tanssi.net
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tanssi.io
-  # baseUrl: /your-repo-name
   logoUrl: https://status.tanssi.io/tanssi_net_logo_white_on_blue.png
   name: tanssi.net
   introTitle: tanssi.netin valvonta

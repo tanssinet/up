@@ -2,13 +2,17 @@ owner: tanssinet
 repo: up
 
 sites:
-  - name: tanssi.net
-    url: https://tanssi.net
+  - name: Kalenteri
+    url: https://tanssi.net/cal/events/2024/4/16/
+  - name: Esiintyjät
+    url: https://tanssi.net/cal/performers/
+  - name: Tapahtumapaikat
+    url: https://tanssi.net/cal/venues/
 
 status-website:
   cname: status.tanssi.io
   logoUrl: https://status.tanssi.io/tanssi_net_logo_white_on_blue_cropped.png
-  name: tanssi.net
+  name: ""
   introTitle: tanssi.net | Palveluiden saatavuus
   introMessage: Alla näet palveluiden tilan. Jos järjestelmät ovat pysyvästi alhaalla, saat lisätietoja sivulta Tiketit
   navbar:

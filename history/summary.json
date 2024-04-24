@@ -4,19 +4,19 @@
     "url": "https://tanssi.net/cal/events/2024/4/16/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "kalenteri",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 591,
-    "timeWeek": 606,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 587,
+    "timeDay": 622,
+    "timeWeek": 612,
+    "timeMonth": 587,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2024-04-24": 0
+      "2024-04-24": 6
     }
   },
   {

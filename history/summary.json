@@ -4,19 +4,19 @@
     "url": "https://tanssi.net/cal/events/2024/4/16/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "kalenteri",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 574,
-    "timeDay": 563,
-    "timeWeek": 588,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
+    "time": 1437,
+    "timeDay": 2724,
+    "timeWeek": 1666,
+    "timeMonth": 1437,
+    "timeYear": 1437,
     "dailyMinutesDown": {
-      "2024-04-24": 49
+      "2024-04-24": 106
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://tanssi.net/cal/performers/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "esiintyjaet",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 516,
-    "timeDay": 600,
-    "timeWeek": 521,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 550,
+    "timeDay": 678,
+    "timeWeek": 564,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2024-04-24": 46
+      "2024-04-24": 103
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://tanssi.net/cal/venues/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "tapahtumapaikat",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 324,
-    "timeDay": 418,
-    "timeWeek": 290,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 375,
+    "timeDay": 540,
+    "timeWeek": 357,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-04-24": 31
+      "2024-04-24": 88
     }
   }
 ]

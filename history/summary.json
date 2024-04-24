@@ -4,19 +4,19 @@
     "url": "https://tanssi.net/cal/events/2024/4/16/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "kalenteri",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 587,
-    "timeDay": 622,
-    "timeWeek": 612,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 573,
+    "timeDay": 552,
+    "timeWeek": 590,
+    "timeMonth": 573,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2024-04-24": 15
+      "2024-04-24": 19
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "esiintyjaet",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 484,
     "timeDay": 529,
     "timeWeek": 477,
     "timeMonth": 484,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2024-04-24": 7
+      "2024-04-24": 13
     }
   },
   {

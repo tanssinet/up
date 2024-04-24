@@ -4,9 +4,9 @@
     "url": "https://tanssi.net/cal/events/2024/4/16/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "kalenteri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 606,
     "timeMonth": 581,
     "timeYear": 581,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-24": 0
+    }
   },
   {
     "name": "Esiintyjät",

@@ -4,19 +4,19 @@
     "url": "https://tanssi.net/cal/events/2024/4/16/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "kalenteri",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 587,
     "timeDay": 622,
     "timeWeek": 612,
     "timeMonth": 587,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2024-04-24": 6
+      "2024-04-24": 9
     }
   },
   {
@@ -24,25 +24,27 @@
     "url": "https://tanssi.net/cal/performers/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "esiintyjaet",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 484,
     "timeDay": 529,
     "timeWeek": 477,
     "timeMonth": 484,
     "timeYear": 484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-24": 2
+    }
   },
   {
     "name": "Tapahtumapaikat",
     "url": "https://tanssi.net/cal/venues/",
     "icon": "https://icons.duckduckgo.com/ip3/tanssi.net.ico",
     "slug": "tapahtumapaikat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 200,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-24": 0
+    }
   }
 ]

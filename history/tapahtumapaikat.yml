@@ -1,7 +1,7 @@
 url: https://tanssi.net/cal/venues/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-13T11:26:00.671Z
+status: up
+code: 200
+responseTime: 165
+lastUpdated: 2024-06-13T11:27:37.393Z
 startTime: 2024-04-16T00:57:31.186Z
 generator: Upptime <https://github.com/upptime/upptime>
